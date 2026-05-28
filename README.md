@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Embedded Systems, Embedded Linux, and AI-powered edge devices  <br><br>
-🤝 I’m looking to collaborate on Embedded Firmware, IoT, RTOS, and STM32-based projects  <br><br>
-🛠 I’m looking for help with Linux device drivers and advanced embedded development  <br><br>
-🌱 I’m currently improving my skills in Bare-Metal Programming, Embedded Linux, and FreeRTOS  <br><br>
-💬 Ask me about STM32, ESP32, UART, SPI, I2C, CAN, Embedded C, and hardware debugging  <br><br>
-⚡ Fun fact: I can spend hours debugging a UART issue and still enjoy it
+🔭 I’m currently working on Embedded Systems, Embedded Linux, and AI-powered edge devices  <br><br>🤝 I’m looking to collaborate on Embedded Firmware, IoT, RTOS, and STM32-based projects  <br><br>🛠 I’m looking for help with Linux device drivers and advanced embedded development  <br><br>🌱 I’m currently improving my skills in Bare-Metal Programming, Embedded Linux, and FreeRTOS  <br><br>💬 Ask me about STM32, ESP32, UART, SPI, I2C, CAN, Embedded C, and hardware debugging  <br><br>⚡ Fun fact: I can spend hours debugging a UART issue and still enjoy it
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshal-pachange/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalpachange29@gmail.com) 
