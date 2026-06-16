@@ -11,7 +11,6 @@
 ![](https://streak-stats.demolab.com/?user=Harry2907&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harry2907&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
