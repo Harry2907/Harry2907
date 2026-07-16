@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harshal Pachange 👋</h1>
-<h3 align="center">Embedded Systems Engineer | Embedded Linux & AI-Powered Edge Devices</h3>
+<h3 align="center">Embedded Firmwaare Engineer | Embedded Linux & AI-Powered Edge Devices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshal-pachange/">
